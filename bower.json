@@ -1,0 +1,20 @@
+{
+  "name": "bulma",
+  "authors": [
+    "Vandenborne Stefan <stefan@illutek.be>"
+  ],
+  "description": "test project voor Bulma flexbox css framework",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bulma": "^0.4.2"
+  }
+}
